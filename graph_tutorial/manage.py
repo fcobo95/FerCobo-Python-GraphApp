@@ -27,3 +27,6 @@ It will import the settings and enter a try/catch sequence to import django.core
 If it fails, will throw an exception with a message. If no exception is thrown, it will use the imported function and will execute the server.
 
 """
+
+App Client Id = 3e7cce3a-c623-4786-b68c-c0592776a5ff
+Secret G6~jj~R-4V1HXwd5q-5~BKRJepdu_p02KB
