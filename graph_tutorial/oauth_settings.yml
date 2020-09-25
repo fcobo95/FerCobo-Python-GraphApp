@@ -1,5 +1,5 @@
-app_id: " "
-app_secret: " "
+app_id: 3e7cce3a-c623-4786-b68c-c0592776a5ff"
+app_secret: "fff"
 redirect: "http://localhost:8000/callback"
 scopes: "openid profile offline_access user.read calendars.read"
 authority: "https://login.microsoftonline.com/common"
