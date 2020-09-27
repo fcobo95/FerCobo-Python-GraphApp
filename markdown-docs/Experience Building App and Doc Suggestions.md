@@ -117,23 +117,5 @@ My suggestion for this would be:
 
     ![Image][AppNaming]
 
-<style>
-    p {
-        color:white
-    }
-
-    h1 {
-        color:auto
-    }
-
-    h2 {
-        color:lightblue
-    }
-
-    h3 {
-        color:lightyellow
-    }
-</style>
-
 # Conclusion
-The overall experience was very intense, frustrating, fun, rewarding, ups and downs; just the typical developer stages while coding something that is new to him/her! I think this was very interesting, especially for me because I had never used Microsoft Graph before, I did used OAuth and OAuth2 in the past while I was in college, but it was also cool to be able to integrate that to Azure Active Directory. The process of documenting this learning document was also of much advantage, as it helped me to re-engage with Markdown (which I had kind of forgotten about) and also to use Git again. I did a lot of learning by reading the different methods that were used to build the authentication code blocks for the Django application as well as the Django development server itself. Understanding how the Django framework works alone was quite the read! 
+The overall experience was very intense, frustrating, fun, rewarding, ups and downs; just the typical developer stages while coding something that is new to him/her! I think this was very interesting, especially for me because I had never used Microsoft Graph before, I did used OAuth and OAuth2 in the past while I was in college, but it was also cool to be able to integrate that to Azure Active Directory. The process of documenting this learning document was also of much advantage, as it helped me to re-engage with Markdown (which I had kind of forgotten about) and also to use Git again. I did a lot of learning by reading the different methods that were used to build the authentication code blocks for the Django application as well as the Django development server itself. Understanding how the Django framework works alone was quite the read! I really enjoyed this process.
