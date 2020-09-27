@@ -1,10 +1,10 @@
 <!-- Declaring image and link variables here -->
-[StartProject]: /images/app.png
-[RunServer]: /images/django-startapp.png
-[CodeSnippet]: /images/code-snippet.png
-[AppNaming]: /images/naming.png
-[BadCSS]: /images/bad-css.png
-[GoodCSS]: /images/good-css.png
+[StartProject]: ./images/app.png
+[RunServer]: ./images/django-startapp.png
+[CodeSnippet]: ./images/code-snippet.png
+[AppNaming]: ./images/naming.png
+[BadCSS]: ./images/bad-css.png
+[GoodCSS]: ./images/good-css.png
 
 [Python]: https://www.python.org/
 [PIP]: https://pip.pypa.io/en/stable/
